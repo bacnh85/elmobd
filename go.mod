@@ -1,4 +1,4 @@
-module github.com/rzetterberg/elmobd
+module github.com/bacnh85/elmobd/stn2120
 
 go 1.13
 
